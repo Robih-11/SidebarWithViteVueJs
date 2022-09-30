@@ -1,7 +1,7 @@
 <template>
   <aside :class="`${is_expanded && 'is-expanded'}`">
     <div class="logo">
-      <img src="../assets/LogoASDP1.png" alt="vue" />
+      <img src="../assets/Logo.png" alt="vue" />
     </div>
 
     <div class="menu-toggle-wrap">
@@ -73,7 +73,7 @@ aside {
     margin-bottom: 1rem;
 
     img {
-      width: 2rem;
+      width: 13rem;
     }
   }
 
